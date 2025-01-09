@@ -10,10 +10,10 @@
 ## Answers
 
 - ***(Q1) What is the name of the directory that `mvn archectype:generate` command creates?***
-
+   The name of the directory is NETID_lab1 do in my case it is lgari012_lab1
 
 - ***(Q2) What do you see at the console output when you run the `java` command?***
-
+ Out put was "Hello World!"
 
 - ***(Q3) Which of the following is the right way to call the `IsEven` function?***
 
